@@ -19,7 +19,7 @@ To build for dist run `npm prod`.
 │   ├── styles               # Styles
 │   ├── utils                # Untils and helpers for things like HTTP requests
 ├── config                   # Project configuration settings
-		├── routes.js            # Application routing
+|   ├── routes.js            # Application routing
 ├── .babelrc                
 ├── .gitignore              
 ├── package.json
